@@ -22,7 +22,7 @@ A modern, responsive frontend built with **React.js** for visualizing and intera
 ---
 ## 🖼️ Preview
 
-![App Screenshot]([https://via.placeholder.com/1000x500.png?text=Stock+UI+Preview](https://github.com/Adarsh841412/stockUI/blob/main/Screenshot%202025-07-05%20194043.png))
+![image alt]([https://via.placeholder.com/1000x500.png?text=Stock+UI+Preview](https://github.com/Adarsh841412/stockUI/blob/main/Screenshot%202025-07-05%20194043.png))
 
 
 ---
