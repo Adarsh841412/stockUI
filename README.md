@@ -21,14 +21,6 @@ A modern, responsive frontend built with **React.js** for visualizing and intera
 
 ---
 
-## 🖼️ Preview
-
-![App Screenshot](https://via.placeholder.com/1000x500.png?text=Stock+UI+Preview)
-
-> _(Replace this with a real screenshot of your app)_
-
----
-
 ## 🔧 Tech Stack
 
 | Tech             | Description                      |
